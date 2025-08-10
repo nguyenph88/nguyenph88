@@ -1,4 +1,13 @@
-## Hi there 👋
+This file is call README and you are actually READING ME now.
+I don't have a fancy README file. The more I write it just make you feel like I used AI. Well in fact that's what people are doing right now in the real world.
+
+In short:
+- I'm lazy so I make things to work for me (bots, automation tools, scrapers etc.)
+- I work my main job during day time (and sometimes late).
+- I host my game servers and mod it the way I want during night time.
+- You won't find me at home during weekend, I will be out exploring and spending times with my family.
+
+Come find my in my discord :)
 
 <!--
 **nguyenph88/nguyenph88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
